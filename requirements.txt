@@ -1,0 +1,14 @@
+pandas
+pyarrow
+openpyxl
+requests
+scikit-learn
+lightgbm
+joblib
+fastapi
+uvicorn
+streamlit
+matplotlib==3.9.4  # newer builds blocked by Windows Smart App Control
+nbconvert
+ipykernel
+httpx
